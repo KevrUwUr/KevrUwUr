@@ -83,4 +83,3 @@ Soy desarrollador fullstack con experiencia en frontend y backend. Me apasiona a
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KevrUwUr&theme=tokyonight&title=Repositories,Followers,Stars,Commit,PullRequest,Issues" alt="GitHub Trophies"/>
 </p>
----
