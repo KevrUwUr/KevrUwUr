@@ -10,7 +10,7 @@
 
 ## 📝 Sobre mí
 
-- 💼 Actualmente trabajo como Desarrollador Fullstack Junior en [Nombre de la empresa].
+- 💼 Actualmente trabajo como Desarrollador Fullstack Junior en Consultoria y capacitación HSEQ.
 - 🌱 Actualmente aprendiendo **Django, patrones de diseño y arquitecturas**.
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software.
 - ✉️ Contacto: **Kevin.marin0352@gmail.com**
